@@ -5,3 +5,4 @@ def printing():
     
 printing()
 print("hello")
+print("hi")
